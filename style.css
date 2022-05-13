@@ -113,6 +113,9 @@ input,label{
 .info2{
     /* border: 2px solid black; */
     margin-top: 10%;
+    margin-left: 50px;
+    height: 400px;
+    width: 400px;
 }
 #signupbtn{
     padding: 2px 10px;
